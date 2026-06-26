@@ -1,0 +1,48 @@
+<svg width="860" viewBox="0 0 870 190" xmlns="http://www.w3.org/2000/svg" style="max-width: 870px; display: block; margin-inline: auto;">
+      <defs><style id="svgStyle">
+        .bg-main{fill:#0d1117}.bg-panel{fill:#161b22}
+        .text-name{font-family:'Inter',sans-serif;font-size:26px;font-weight:700;fill:#e6edf3}
+        .text-hanja{font-family:'Inter',sans-serif;font-size:14px;font-weight:400;fill:#8b949e}
+        .text-role{font-family:'JetBrains Mono',monospace;font-size:12px;fill:#3fb950}
+        .text-bio{font-family:'Inter',sans-serif;font-size:11px;fill:#8b949e}
+        .text-tag{font-family:'JetBrains Mono',monospace;font-size:10px;fill:#58a6ff}
+        .text-label{font-family:'JetBrains Mono',monospace;font-size:9px;fill:#6e7681;letter-spacing:.08em}
+        .text-stack{font-family:'JetBrains Mono',monospace;font-size:11px;fill:#cdd9e5}
+        .avatar-bg{fill:#1f6feb}
+        .avatar-text{font-family:'Inter',sans-serif;font-size:20px;font-weight:700;fill:#ffffff}
+      </style><mask id="imagine-text-gaps-r240ho" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="870" height="190" fill="white"/><rect x="53.99878692626953" y="77.24472045898438" width="28.00243377685547" height="24.122652053833008" fill="black" rx="2"/><rect x="136" y="32.91813278198242" width="203.65023803710938" height="32.48979568481445" fill="black" rx="2"/><rect x="336.0000305175781" y="43.5713005065918" width="54.65385055541992" height="18.204225540161133" fill="black" rx="2"/><rect x="136" y="67.93867492675781" width="329.7774963378906" height="16.428696632385254" fill="black" rx="2"/><rect x="136" y="86.48808288574219" width="205.10549926757812" height="14.69560432434082" fill="black" rx="2"/><rect x="154.50364685058594" y="110.71420288085938" width="42.992698669433594" height="14.061326026916504" fill="black" rx="2"/><rect x="237.501953125" y="110.71420288085938" width="32.99610710144043" height="14.061326026916504" fill="black" rx="2"/><rect x="302.01019287109375" y="110.71420288085938" width="67.97956085205078" height="14.061326026916504" fill="black" rx="2"/><rect x="436.0000305175781" y="32.3060417175293" width="60.18387985229492" height="13.469483375549316" fill="black" rx="2"/><rect x="456" y="52.530517578125" width="40.99523162841797" height="15.836853981018066" fill="black" rx="2"/><rect x="536" y="52.530517578125" width="29.999902725219727" height="15.836853981018066" fill="black" rx="2"/><rect x="601" y="52.530517578125" width="68.48817443847656" height="15.836853981018066" fill="black" rx="2"/><rect x="456" y="76.530517578125" width="62.98588562011719" height="15.836853981018066" fill="black" rx="2"/><rect x="536" y="76.530517578125" width="62.98588562011719" height="15.836853981018066" fill="black" rx="2"/><rect x="626" y="76.530517578125" width="40.99523162841797" height="15.836853981018066" fill="black" rx="2"/><rect x="456" y="100.530517578125" width="40.99523162841797" height="15.836853981018066" fill="black" rx="2"/><rect x="536" y="100.530517578125" width="29.999902725219727" height="15.836853981018066" fill="black" rx="2"/><rect x="601" y="100.530517578125" width="35.492942810058594" height="15.836853981018066" fill="black" rx="2"/><rect x="724" y="32.3060417175293" width="34.09656524658203" height="13.469483375549316" fill="black" rx="2"/><rect x="724" y="44.10182189941406" width="37.3979377746582" height="31.224763870239258" fill="black" rx="2"/><rect x="724" y="70.530517578125" width="75.53480529785156" height="14.653168678283691" fill="black" rx="2"/><rect x="724" y="82.10182189941406" width="52.092281341552734" height="31.224763870239258" fill="black" rx="2"/><rect x="724" y="108.530517578125" width="66.2132797241211" height="15.712753295898438" fill="black" rx="2"/><rect x="724" y="132.530517578125" width="123.46481323242188" height="15.836853981018066" fill="black" rx="2"/></mask></defs>
+      <rect width="860" height="180" class="bg-main" rx="10"/>
+      <rect id="accentBar" x="0" y="0" width="3" height="180" fill="#1f6feb" rx="2"/>
+      <circle cx="68" cy="90" r="36" class="avatar-bg"/>
+      <text x="68" y="97" text-anchor="middle" class="avatar-text" id="avatarChar">キム</text>
+      <line x1="122" y1="24" x2="122" y2="156" stroke="#30363d" stroke-width="0.5" fill="none"/>
+      <text id="svgName" x="140" y="58" class="text-name">Kim Young-ho</text>
+      <text id="svgHanja" x="340" y="58" class="text-hanja">金 英豪</text>
+      <text id="svgPrompt" x="140" y="80" class="text-role">❯ whoami - システムエンジニア</text>
+      <text id="svgBio" x="140" y="98" class="text-bio" font-style="italic">真理を追求するフルスタックエンジニア</text>
+      <rect x="140" y="108" width="72" height="18" fill="#1f6feb22" rx="9" stroke="#1f6feb44" stroke-width="0.5"/>
+      <text x="176" y="121" text-anchor="middle" class="text-tag" id="tag1">Backend</text>
+      <rect x="218" y="108" width="72" height="18" fill="#3fb95022" rx="9" stroke="#3fb95044" stroke-width="0.5"/>
+      <text x="254" y="121" text-anchor="middle" class="text-tag" fill="#3fb950" id="tag2">Infra</text>
+      <rect x="296" y="108" width="80" height="18" fill="#d2992222" rx="9" stroke="#d2992244" stroke-width="0.5"/>
+      <text x="336" y="121" text-anchor="middle" class="text-tag" fill="#d29922" id="tag3">Cloud Native</text>
+      <line x1="420" y1="24" x2="420" y2="156" stroke="#30363d" stroke-width="0.5" fill="none" mask="url(#imagine-text-gaps-r240ho)"/>
+      <text x="440" y="42" class="text-label">TECH STACK</text>
+      <circle cx="450" cy="60" r="4" fill="#7f52ff"/><text x="460" y="64" class="text-stack" id="s1">Kotlin</text>
+      <circle cx="530" cy="60" r="4" fill="#ed8b00"/><text x="540" y="64" class="text-stack" id="s2">Java</text>
+      <circle cx="595" cy="60" r="4" fill="#6db33f"/><text x="605" y="64" class="text-stack" id="s3">Spring Boot</text>
+      <circle cx="450" cy="84" r="4" fill="#3178c6"/><text x="460" y="88" class="text-stack" id="s4">TypeScript</text>
+      <circle cx="530" cy="84" r="4" fill="#326ce5"/><text x="540" y="88" class="text-stack" id="s5">Kubernetes</text>
+      <circle cx="620" cy="84" r="4" fill="#ef7b4d"/><text x="630" y="88" class="text-stack" id="s6">ArgoCD</text>
+      <circle cx="450" cy="108" r="4" fill="#892ca0"/><text x="460" y="112" class="text-stack" id="s7">Podman</text>
+      <circle cx="530" cy="108" r="4" fill="#ef7b4d"/><text x="540" y="112" class="text-stack" id="s8">Helm</text>
+      <circle cx="595" cy="108" r="4" fill="#fcc624"/><text x="605" y="112" class="text-stack" id="s9">Linux</text>
+      <line x1="710" y1="24" x2="710" y2="156" stroke="#30363d" stroke-width="0.5" fill="none"/>
+      <text x="728" y="42" class="text-label">STATS</text>
+      <text id="statVal1" x="728" y="68" fill="#3fb950" font-family="monospace" font-size="22" font-weight="700">29</text>
+      <text x="728" y="82" class="text-bio" id="statLbl1">Qiita articles</text>
+      <text id="statVal2" x="728" y="106" fill="#3fb950" font-family="monospace" font-size="22" font-weight="700">10+</text>
+      <text x="728" y="120" class="text-bio" id="statLbl2">OSS repos</text>
+      <text x="728" y="144" fill="#58a6ff" font-family="monospace" font-size="11" id="solvedText">solved.ac / hobag6078</text>
+      <line x1="0" y1="179.5" x2="860" y2="179.5" id="bottomLine" stroke="#1f6feb" stroke-width="0.5"/>
+    </svg>
