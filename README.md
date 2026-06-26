@@ -27,19 +27,19 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 技術さタック
 
-### Backend & Language
+### バックエンド
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA_·_QueryDSL-6DB33F?style=flat-square&logo=hibernate&logoColor=white)
 
-### Frontend
+### フロントエンド
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### Infrastructure & Cloud Native
+### インフラ＆クラウドネイティブ
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-## 📌 Organizations
+## 📌 組織
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ KT Cloud — MSA Architecture
 
 ---
 
-## 📝 Writing
+## 📝 投稿
 
 <table>
 <tr>
