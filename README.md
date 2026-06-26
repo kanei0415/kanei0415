@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Kim Young-ho — Systems Engineer Banner"/>
+<img src="./banner.svg" width="95%" alt="Kim Young-ho — Systems Engineer Banner"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 技術さタック
+## 技術さタック
 
 ### バックエンド
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-## 📌 組織
+## 組織
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ KT Cloud — MSA Architecture
 
 ---
 
-## 📝 投稿
+## 投稿
 
 <table>
 <tr>
@@ -87,6 +87,25 @@ Container · Linux · Podman · Kubernetes · Spring Boot
 
 **[Naver Blog](https://blog.naver.com/k4nei)**  
 Tech notes & engineering logs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 証書
+
+<table>
+<tr>
+<td>
+
+![基本情報技術者](./images/fe-cert.png)
+
+</td>
+<td>
+
+![応用情報技術者](./images/ap-cert.png)
 
 </td>
 </tr>
