@@ -12,16 +12,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobag6078)](https://solved.ac/hobag6078/)
   
   </td>
-  <td align="center">
-  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanei0415&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&count_private=true)](https://github.com/kanei0415)
-  
-  </td>
-  <td align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanei0415&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)](https://github.com/kanei0415)
-  
-  </td>
 </tr>
 </table>
 
